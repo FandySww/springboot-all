@@ -11,8 +11,4 @@
     <modules>
         <module>excel</module>
     </modules>
-
-    <dependencies>
-    </dependencies>
-
 </project>
