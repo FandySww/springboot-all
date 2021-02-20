@@ -2,7 +2,8 @@ package com.excel.controller;
 
 import com.excel.common.RiskResult;
 import com.excel.dto.CallbackDto;
-import com.excel.utils.HttpClientUtils;
+import com.excel.service.CallBackService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -19,6 +20,10 @@ import java.net.URISyntaxException;
 @RestController
 @RequestMapping(value="/data/callback")
 public class CallBack {
+
+    @Autowired
+    CallBackService callBackService;
+
     @GetMapping("/accept")
     public RiskResult testNatapp(HttpServletRequest request) throws IOException, URISyntaxException {
         CallbackDto callbackDto = new CallbackDto(
@@ -26,8 +31,7 @@ public class CallBack {
                 request.getParameter("downloadUrl"),request.getParameter("downloadUrlExpiredTime"),
                 request.getParameter("unzipPassword")
         );
-        // 调用downloadUel
-        HttpClientUtils.getDataRomUrl(callbackDto,request);
+        callBackService.getDataRomUrl(callbackDto);
         return RiskResult.success();
     }
 }
