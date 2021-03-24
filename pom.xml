@@ -12,5 +12,7 @@
         <module>excel</module>
         <module>java8</module>
         <module>hive</module>
+        <module>kafka</module>
+        <module>aviator</module>
     </modules>
 </project>

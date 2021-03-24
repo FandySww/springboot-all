@@ -2,18 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aviator" />
         <module name="excel" />
+        <module name="hive" />
         <module name="java8" />
+        <module name="kafka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aviator" target="7" />
       <module name="excel" target="1.5" />
+      <module name="hive" target="1.5" />
       <module name="java8" target="8" />
+      <module name="kafka" target="1.5" />
       <module name="springboot-all" target="1.5" />
     </bytecodeTargetLevel>
   </component>
