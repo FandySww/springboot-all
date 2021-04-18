@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aviator/aviator.iml" filepath="$PROJECT_DIR$/aviator/aviator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel/excel.iml" filepath="$PROJECT_DIR$/excel/excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovyEngine/groovyEngine.iml" filepath="$PROJECT_DIR$/groovyEngine/groovyEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive/hive.iml" filepath="$PROJECT_DIR$/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaKonwledge/javaKonwledge.iml" filepath="$PROJECT_DIR$/javaKonwledge/javaKonwledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/scala.iml" filepath="$PROJECT_DIR$/scala/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel/sentinel.iml" filepath="$PROJECT_DIR$/sentinel/sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinelAlibaba/sentinelAlibaba.iml" filepath="$PROJECT_DIR$/sentinelAlibaba/sentinelAlibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSecurity/springSecurity.iml" filepath="$PROJECT_DIR$/springSecurity/springSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all.iml" filepath="$PROJECT_DIR$/springboot-all.iml" />
+    </modules>
+  </component>
+</project>
