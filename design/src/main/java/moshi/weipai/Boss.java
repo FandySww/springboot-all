@@ -2,7 +2,6 @@ package moshi.weipai;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 3:39 PM
  * @description
  */
 public class Boss {

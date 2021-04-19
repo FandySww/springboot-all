@@ -5,7 +5,6 @@ import moshi.factory.simpleFactory.JavaCourse;
 
 /**
  * @Author fandayong
- * @Date 2021/4/17 11:14 PM
  * @description
  */
 public class JavCourseFactory implements ICourseFactory {

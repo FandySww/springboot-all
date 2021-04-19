@@ -2,7 +2,6 @@ package moshi.factory.abstractFactory;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 12:47 AM
  * @description
  */
 public class JavaCourseFactory implements CourseFactory{

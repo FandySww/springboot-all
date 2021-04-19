@@ -2,7 +2,6 @@ package moshi.daili.one;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 1:37 AM
  * @description
  */
 public class Son implements Person{

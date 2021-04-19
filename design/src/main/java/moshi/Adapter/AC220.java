@@ -2,7 +2,6 @@ package moshi.Adapter;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 6:09 PM
  * @description
  */
 public class AC220 {

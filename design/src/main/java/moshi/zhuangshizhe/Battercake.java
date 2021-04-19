@@ -1,0 +1,10 @@
+package moshi.zhuangshizhe;
+
+/**
+ * @Author fandayong
+ * @description
+ */
+public abstract class Battercake {
+    protected abstract String getMsg();
+    protected abstract int getPrice();
+}

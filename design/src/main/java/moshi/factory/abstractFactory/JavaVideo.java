@@ -2,7 +2,6 @@ package moshi.factory.abstractFactory;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 12:40 AM
  * @description
  */
 public class JavaVideo implements IVideo{

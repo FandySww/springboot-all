@@ -2,7 +2,6 @@ package moshi.factory.factoryMethod;
 
 /**
  * @Author fandayong
- * @Date 2021/4/17 11:16 PM
  * @description
  */
 public class Test {

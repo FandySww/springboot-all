@@ -5,7 +5,6 @@ import java.util.Date;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 12:02 PM
  * @description
  */
 public class OrderServiceStaticProxy implements IOrderService{

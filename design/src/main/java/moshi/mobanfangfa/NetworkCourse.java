@@ -2,7 +2,6 @@ package moshi.mobanfangfa;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 4:47 PM
  * @description
  */
 public abstract class NetworkCourse {

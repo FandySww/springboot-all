@@ -8,7 +8,6 @@ import java.util.Date;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 1:01 PM
  * @description 只要实现createTime方法  就可以了  不管是order类还是什么都可以装样子
  */
 public class OrderServiceDynamicProxy implements InvocationHandler {

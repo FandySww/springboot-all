@@ -2,7 +2,6 @@ package moshi.daili.three;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 12:51 PM
  * @description
  */
 public class Customer implements Person{

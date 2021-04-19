@@ -6,7 +6,6 @@ import java.lang.reflect.Proxy;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 12:37 PM
  * @description
  */
 public class JDKMeipo implements InvocationHandler {

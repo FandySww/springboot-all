@@ -5,7 +5,6 @@ import moshi.factory.simpleFactory.PythonCourse;
 
 /**
  * @Author fandayong
- * @Date 2021/4/17 11:16 PM
  * @description
  */
 public class PythonCourseFactory implements ICourseFactory{

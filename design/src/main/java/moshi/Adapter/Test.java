@@ -2,7 +2,6 @@ package moshi.Adapter;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 9:11 PM
  * @description
  */
 public class Test {

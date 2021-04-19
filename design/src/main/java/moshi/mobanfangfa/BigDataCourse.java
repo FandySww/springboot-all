@@ -2,7 +2,6 @@ package moshi.mobanfangfa;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 5:29 PM
  * @description
  */
 public class BigDataCourse extends NetworkCourse{

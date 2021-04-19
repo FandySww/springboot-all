@@ -2,7 +2,6 @@ package moshi.daili.two;
 
 /**
  * @Author fandayong
- * @Date 2021/4/18 11:47 AM
  * @description
  */
 public class DynamicDataSourceEntry {
