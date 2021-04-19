@@ -7,7 +7,7 @@ import java.util.Observable;
  * @Date 2021/4/19 2:14 PM
  * @description
  */
-public class GPer extends Observable {
+public class GPer extends Observable  {
     private String name = "GPer生态圈";
     private static volatile GPer gper = null;
     private GPer(){}
