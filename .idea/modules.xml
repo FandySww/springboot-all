@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/groovyEngine/groovyEngine.iml" filepath="$PROJECT_DIR$/groovyEngine/groovyEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/hive/hive.iml" filepath="$PROJECT_DIR$/hive/hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaEE/javaEE.iml" filepath="$PROJECT_DIR$/javaEE/javaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaKonwledge/javaKonwledge.iml" filepath="$PROJECT_DIR$/javaKonwledge/javaKonwledge.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/scala.iml" filepath="$PROJECT_DIR$/scala/scala.iml" />

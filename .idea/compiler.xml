@@ -14,6 +14,7 @@
         <module name="groovyEngine" />
         <module name="hive" />
         <module name="java8" />
+        <module name="javaEE" />
         <module name="javaKonwledge" />
         <module name="kafka" />
         <module name="scala" />
@@ -30,6 +31,7 @@
       <module name="groovyEngine" target="1.5" />
       <module name="hive" target="1.5" />
       <module name="java8" target="8" />
+      <module name="javaEE" target="7" />
       <module name="javaKonwledge" target="1.5" />
       <module name="kafka" target="1.5" />
       <module name="scala" target="1.5" />

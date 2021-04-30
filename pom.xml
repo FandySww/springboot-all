@@ -22,6 +22,7 @@
         <module>sentinelAlibaba</module>
         <module>algorithm</module>
         <module>javaKonwledge</module>
+        <module>javaEE</module>
     </modules>
 
     <dependencies>

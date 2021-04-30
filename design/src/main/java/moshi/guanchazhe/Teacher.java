@@ -9,7 +9,7 @@ import java.util.Observer;
 /**
  * @Author fandayong
  * @Date 2021/4/19 2:31 PM
- * @description
+ * @description 提交日志
  */
 public class Teacher implements Observer {
     private String name;
